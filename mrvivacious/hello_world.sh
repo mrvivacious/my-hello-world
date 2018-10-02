@@ -3,7 +3,7 @@
 # @author mrvivacious
 
 echo -e "Ctrl + c to quit!\n"
-sleep .2
+sleep .1
 
 while [ 0 -eq 0 ]; do
     echo -e '\rH'
